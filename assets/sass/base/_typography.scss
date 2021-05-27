@@ -1,0 +1,23 @@
+// Tipografia
+$roboto:'Roboto', sans-serif;
+$pt-mono:'PT Mono', monospace;
+
+//Peso de fuentes
+$light: 300;
+$regular:400;
+
+// tamanos de fuentes
+$xxx-large: 70px;
+$xx-large: 40px;
+$x-large: 30px;
+$large: 18px;
+$medium: 16px;
+
+a{
+  font-family:$pt-mono;
+  font-weight:$regular;
+}
+
+h1 h5{
+  font-family:$pt-mono;
+}
